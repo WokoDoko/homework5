@@ -28,5 +28,6 @@ public class Employee {
             arrayCellCount--;
         }
     }
+    //буду пробовать с помощью других циклов попозже
 
 }
